@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Илья Мысков](https://up.htmlacademy.ru/htmlcss/38/user/646571).
-* Наставник: `Дарья Шестерина` https://htmlacademy.ru/profile/id221124.
+* Наставник: [Дарья Шестерина](https://htmlacademy.ru/profile/id221124).
 
 ---
 
